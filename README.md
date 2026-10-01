@@ -115,7 +115,8 @@ Flags:
   -h, --help      help for fireactions
   -v, --version   version for fireactions
 
-Use "fireactions [command] --help" for more information about a command.
+
+
 ```
 
 See the [User Guide](https://fireactions.io/latest/) for installation and configuration instructions.
