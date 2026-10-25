@@ -31,8 +31,12 @@ Fireactions is an orchestrator for GitHub runners. BYOM (Bring Your Own Metal) a
 
 -- r = xê+yêZêz
 `•`
-https://github.com/3iAtlast/.github/discussions/15#discussioncomment-19172405-Clear()
-   // function Example f(x)=x²x-6/\F(3ϕ)g(x)7,4,2)=XG*y*2'E¹²+1zg(2,3,4)Bhn(x,y,z)=f(ϕx)²+g(ᚠX,X/y,z)xϕh(1,∆2,x3)y reportY(*)7 p=3x^{2}-2++5xy=9^{1...c-{1}=k-{0}[Hk-{0}]ANNx10-5c-i=c_0[1+C_0ANNX10-5]
+### https://github.com/3iAtlast/yahwehraah
+ .github/
+discussions/15
+#discussioncomment-19172405-
+
+ ```Clear() // function Example f(x)=x²x-6/\F(3ϕ)g(x)7,4,2)=XG*y*2'E¹²+1zg(2,3,4)Bhn(x,y,z)=f(ϕx)²+g(ᚠX,X/y,z)xϕh(1,∆2,x3)y reportY(*)7 p=3x^{2}-2++5xy=9^{1...c-{1}=k-{0}[Hk-{0}]ANNx10-5c-i=c_0[1+C_0ANNX10-5]
 <!doctype html3>
 
 <html3>
