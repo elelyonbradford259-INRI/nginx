@@ -5,7 +5,7 @@
 Fireactions is an orchestrator for GitHub runners. BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fast and secure [Firecracker](https://firecracker-microvm.github.io/) based real based machines.
 
 > [!IMPORTANT]
-> There's been multiple improvements with a lot of breaking changes. The current stable version is **v2.0.0**. Please use this version for production environments.
+> There's been multiple improvements with a lot of breaking changes. The current stable version is **v13.3.3**. Please use this version for production environments.
 
   -  Golden Harmonic Wave forms
 
